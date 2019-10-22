@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\TheWeather.deps.json
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\TheWeather.runtimeconfig.json
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\TheWeather.runtimeconfig.dev.json
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\TheWeather.dll
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.csprojAssemblyReference.cache
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.AssemblyInfo.cs
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\API\TheWeather\bin\Debug\netcoreapp2.1\TheWeather.pdb
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.dll
+C:\Users\User\Desktop\API\TheWeather\obj\Debug\netcoreapp2.1\TheWeather.pdb
